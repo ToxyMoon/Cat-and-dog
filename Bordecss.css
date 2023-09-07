@@ -1,0 +1,38 @@
+.Caixa{
+   background-color: aquamarine;
+height: 1200px;
+width: 1200px;
+margin: 0 auto;
+margin-top: -8px;
+}
+.Topo{
+  background-image: url("fotos/verde.jpeg");
+height: 100px;
+}
+.direita{
+    background-color: rgb(74, 139, 36);
+margin-top: px;
+margin-bottom:px;
+margin-left: px;
+margin-right: 1000px;
+height: 900px;
+}
+.esquerda{
+    background-color: rgb(74, 139, 36);
+    margin-top: -900px;
+    margin-left: 1000px;
+    height: 900px;
+}
+.baixo{
+    background-image: url("fotos/verde.jpeg");
+    height: 200px;
+
+
+}
+.meio{
+    background-image: url("fotos/tentativa.jpg");
+margin-top: -1100px;
+margin-left: 200px;
+margin-right: 200px;
+height: 900px;
+}
